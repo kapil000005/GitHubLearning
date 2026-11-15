@@ -1,10 +1,12 @@
 # github preatcice
-fetaure 3 added 
+# documentaion
 
-# documentaion 
-added documentation for feature 1 :))))
-added documentaion
-                    feature 1
-                    feature 2
-                    feature 3
-                    feature 4 + ongoing
+.DOCUMENTAION
+  foc/f1
+  doc/f2
+  doc/f3
+  doc/4
+# known bugs
+  bug/b1
+  buf/b2
+  bug/b3
