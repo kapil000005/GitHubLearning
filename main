@@ -1,2 +1,9 @@
-i am main and include all fetaure
-feature 2 is added here
+.INCLUDE
+	feature/f1
+	feature/f2
+	feature/f3
+
+.DOCUMENTATION
+	***feature1 doc***
+	***feature2 doc***
+	***feature 3 doc being developed***
