@@ -1,3 +1,5 @@
 # github preatcice
 fetaure 3 added \n
-feature 1 added \n 
+
+
+added documentation for feature 1 :))))
