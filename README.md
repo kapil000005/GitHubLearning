@@ -1,9 +1,9 @@
 # github preatcice
-fetaure 3 added \n
+fetaure 3 added 
 
-
+# documentaion 
 added documentation for feature 1 :))))
-added documentaion 
+added documentaion
                     feature 1
                     feature 2
                     feature 3
